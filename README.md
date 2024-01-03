@@ -1,5 +1,18 @@
 # CaliGen
-## Official code for the paper Generality-training of a Classifier for Improved Calibration in Unseen Contexts
+## Official code for the paper Generality-training of a Classifier for Improved Calibration in Unseen Contexts. If you using this code, please cite our paper (https://link.springer.com/chapter/10.1007/978-3-031-43424-2_23).
+```
+@InProceedings{10.1007/978-3-031-43424-2_23,
+author="Leelar, Bhawani Shankar
+and Kull, Meelis",
+title="Generality-Training of a Classifier for Improved Calibration in Unseen Contexts",
+booktitle="Machine Learning and Knowledge Discovery in Databases: Research Track",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="374--391",
+isbn="978-3-031-43424-2"
+}
+```
 
 
 ### This Project include code for CaliGen model.
